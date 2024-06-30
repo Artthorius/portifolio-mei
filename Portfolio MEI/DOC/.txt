@@ -1,0 +1,8 @@
+Integrantes:
+Arthur de Oliveira Silva - Construção do Site
+Cauan Augusto Santana Ribeiro - Construção do manual do usuário/ Elaboração da entrevista com o MEI/ Entrevista com o MEI
+Isaac Santos de Andrade - Construção do manual do usuário/ Elaboração da entrevista com o MEI/ Entrevista com o MEI
+Leonardo Casé Góes Fernandez Santos -  Construção do Site
+Mariana da Silva Moreira - Construção do manual do usuário/ Elaboração da entrevista com o MEI/ Entrevista com o MEI
+
+https://github.com/Artthorius/portifolio-mei
